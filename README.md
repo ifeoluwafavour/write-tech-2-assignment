@@ -55,22 +55,24 @@ To create a Twitter account, follow these steps:
 
 ## Understanding Twitter's interface
 Twitter's home page has icons at the bottom to help you navigate the app.
-- The home icon takes you to the timeline or home page. Here, posts are refreshed from time to time. You can scroll to read posts, like the ones you relate to or repost or quote posts with your opinions for your followers to see.
+- The Home icon takes you to the timeline or home page. Here, posts are refreshed from time to time. You can scroll to read posts, like the ones you relate to or repost or quote posts with your opinions for your followers to see.
 - The Lens icon takes you to the 'trend table' with a search bar at the top. The trend table includes words or phrases trending at the moment and you can click on any of them to follow the conversations happening around the trends.
 - The Bell icon is for notifications. When you have a notification, a number will appear on the bell. The types of notifications you can receive include likes on your posts, reposts of your posts, accounts that mention your handle in conversations, etc
-- The mail icon is for messages. Based on your settings, you can receive messages from any Twitter user or only your followers. A number appears on the icon to let you know you have a message or messages.
+- The Mail icon is for messages. Based on your settings, you can receive messages from any Twitter user or only your followers. A number appears on the icon to let you know you have a message or messages.
 
 ## How to make your first post
 To make the first post, 
 - Make sure you're at the home page. Click on the home icon.
-- Click on the blue plus button at the bottom right of your screen. You will see 4 options for Spaces, Photos, Gif and Post. tap on Post since that is our focus right now.
+- Click on the blue plus sign button at the bottom right of your screen. You will see 4 options for Spaces, Photos, Gif and Post. Tap on Post since that is our focus right now.
 - Write your thoughts. Non-subscribers of Twitter are limited to 280 characters per post while subscribers can write long-form posts. 
 - Once you're done translating your thoughts to text, tap on Post at the top right of your screen.
 
-Now, you can sit and wait for notifications or go on to read other posts. For information on other Twitter features, visit Twitter help center
+Now, you can sit and wait for notifications or go on to read other posts. For information on other Twitter features, visit [Twitter help center](https://help.twitter.com/en)
 
 ## Conclusion
-In summary, Twitter is a dynamic platform not only for entertainment but also for staying up to date, connecting with people all over the world and sharing your creativity with the world. This guide has shown you how to create your account and make your first post. Go on to explore. Follow people, publish posts, find your community and thrive.
+In summary, Twitter is a dynamic platform not only for entertainment but also for staying up to date,accessing opportunities, connecting with people all over the world, and sharing your creativity with the world. 
+
+This guide has shown you how to create your account and make your first post. Go on to explore. Connect with people, publish posts, find your community and thrive.
 
 ## References
 Resources I used for this article are:
